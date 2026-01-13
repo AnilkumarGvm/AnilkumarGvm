@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I’m Anilkumar GVM</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I’m Anilkumar GVM
+</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=UI%2FUX-Focused+Full-Stack+Developer;React+%7C+Python+%7C+Figma;Wix+%7C+Shopify+%7C+WordPress;AI-Assisted+Web+Applications" />
