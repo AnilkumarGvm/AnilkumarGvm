@@ -14,9 +14,9 @@
 
 ## 👨‍💻 About Me
 I’m a **UI/UX-focused Full-Stack Developer with 4+ years of experience** building clean, responsive, and scalable web applications.  
-I help startups and businesses turn ideas into **user-friendly digital products** that improve usability, engagement, and conversions.
+I help startups and businesses create **user-friendly digital products** that improve usability, engagement, and conversions.
 
-I also work with **AI-assisted workflows** to speed up development, automate creative tasks, and enhance design pipelines.
+I also work with **AI-assisted and generative AI workflows** to speed up development and enhance creative pipelines.
 
 ---
 
@@ -33,23 +33,12 @@ I also work with **AI-assisted workflows** to speed up development, automate cre
 
 ## 🛠️ Tech Stack
 
-### 🎨 Design
-Figma · Adobe XD · Sketch · Photoshop  
-
-### 💻 Frontend
-HTML5 · CSS3 · JavaScript · React · Angular  
-
-### ⚙️ Backend
-Python · Django · Node.js  
-
-### 🗄️ Databases
-PostgreSQL · MySQL  
-
-### 🤖 AI Tools & Workflows
-ComfyUI (Comfy AI) · AUTOMATIC1111 (Stable Diffusion) · Claude · Replit  
-
-### 🛒 Platforms & Dev Tools
-Wix · Shopify · WordPress · Git · Docker · AWS · GCP · Fly.io · Postman  
+**Design:** Figma · Adobe XD · Sketch · Photoshop  
+**Frontend:** HTML5 · CSS3 · JavaScript · React · Angular  
+**Backend:** Python · Django · Node.js  
+**Databases:** PostgreSQL · MySQL  
+**AI Tools:** ComfyUI · AUTOMATIC1111 · Claude · Replit  
+**Platforms & Tools:** Wix · Shopify · WordPress · Git · Docker · AWS · GCP · Fly.io · Postman  
 
 ---
 
@@ -68,7 +57,7 @@ Wix · Shopify · WordPress · Git · Docker · AWS · GCP · Fly.io · Postman
 
 ## <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="26"/> Currently Focused On
 - AI-powered & AI-assisted web applications  
-- Design automation using ComfyUI & Stable Diffusion workflows  
+- Design automation with ComfyUI & Stable Diffusion workflows  
 - Conversion-focused UI/UX  
 - Freelance & long-term client collaborations  
 
@@ -82,3 +71,4 @@ Wix · Shopify · WordPress · Git · Docker · AWS · GCP · Fly.io · Postman
 - Startup & MVP builds  
 
 📩 Reach out via **Upwork** or **GitHub Discussions**
+
